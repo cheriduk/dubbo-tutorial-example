@@ -1,0 +1,4 @@
+com\gary\dubbo\usage\consumer\Consumer.class
+com\gary\dubbo\usage\Provider.class
+com\gary\dubbo\usage\provider\DemoServiceImpl.class
+com\gary\dubbo\usage\provider\DemoService.class
